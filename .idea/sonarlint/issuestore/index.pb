@@ -1,0 +1,6 @@
+
+M
+_2022510010_ziya_sharifli.iml,2/4/240f490e3760667cbd8ea65cd02f4fecd1122015
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

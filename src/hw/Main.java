@@ -175,6 +175,7 @@ public class Main {
         for (String departmentChoice : candidateDeptChoices) {
           // check whether department choice of candidate is empty or not
           if (departmentChoice.isEmpty()) continue;
+
           if (departmentChoice.equals(departmentNo)) {
             candidateDeptNo[c] = departmentNo;
             departmentQuotaCount++;
@@ -189,6 +190,9 @@ public class Main {
       }
     }
 
+    System.out.println(Arrays.toString(candidateDeptNo));
+
+
     // Printing departments table
       System.out.printf("%-10s %-10s %10s %n", "No", "Department", "Students");
       System.out.printf("%-10s %-10s %10s %n", "...", "...", "...");
@@ -201,8 +205,7 @@ public class Main {
           if (candidateDeptNo[c] != null && candidateDeptNo[c].equals(departmentNo)) {
             String[] candidateInfo = candidates[c].split(",");
             int candidateNo = Integer.parseInt(candidateInfo[0]);
-            students = students + "\t " + candidateNo;
-            break;
+            students += candidateNo + ", ";
           }
         }
 
