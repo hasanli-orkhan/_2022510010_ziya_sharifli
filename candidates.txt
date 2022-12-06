@@ -1,0 +1,29 @@
+100,Barney Stinson,93,D6,D3,D4,C,B,A,C,A, ,A,B,B,A,C,B,D, ,A,A,C,B,A,D,B,D,C,C,D
+101,Lionel Messi,98,D3,D2,D7,A,B,A,C, ,A,A,C, ,A,C,B,C,C, ,B,C,A,C,B,A,C,B,A,D
+102,Robin Scherbatsky,86,D1,D8,D2,A,C,D,D,C,C,B,D,D,C,A,B,B,C,C,A, ,B,B,D,A,D,B,C,D
+103,Marshall Eriksen,90,D9,D1,D5,A,B,C, ,A,A,A,D,A,C,A, ,B,C,A,C,C, ,C,D,A,D,B,C,D
+104,John Abruzzi,81,D5,D6,D7,A,B, ,C,A,C,A,A,B,A,D,A,A,C,B, ,C,B,C,D,A,D,B,C,D
+105,Lily Aldrin,79,D9,D2,D4,C,A,D,A,C,A,A,C,B,A,C,B,D,C,A,A, ,B,D, ,C,D,A,D,D
+106,Ted Mosby,85,D7,D5,D1,D,A,D,C, ,C,A,C,B,C,D,D,A,C,A,A,C,B,C, ,A,D,B,C,D
+107,Michael Scofield,99,D6,D4,D3,A,B,D,C,C,C,A,D,B,C,D,C,A,C,B,A,C,B,C,D,A,D,B,C,D
+108,Sherlock Holmes,95,D5,D7,D9,A,B,A,C,C,A,A,D,B, ,D,A,A,C,B,A,C, ,C,D,A,D,B,C,D
+109,Geralt Rivia,84,D2,D4,D6,A,B,A, ,C,C,A,D,B,A,D,A, ,C,A,A,C,A,C,A,A,D,A,C,D
+110,Walter White,92,D10,D8,D5,A,B, ,A,C,A,A,D,A,C,D,A,A, ,A,A,C,A,C,A,A,A,B,C,D
+111,Albus Dumbledore,87,D3,D6,D2,D,C, ,D,C,A,C,D,B,C,B,B,A,B,B, ,C,B,C,D,A,D,B,C,D
+112,Severus Snape,86,D4,D10,D5,A,A,D,B,A,B,A, ,C,C,B,B,D, ,C,A,C,B,A,D,A,D,C,C,D
+113,Arif Isik,88,D5,D2,D7, ,B,D,D,C,C,A,C,B,C, ,B,D,C,B,B,C,A,C,D,B,D,A,C,A
+114,Erşan Kuneri,83,D1,D3,D4,C,B,A,C, ,D,A,D, ,C,C,B,D, ,D, ,B, ,C,A,A,C,B,C,D
+115,Optimus Prime,77,D10,D9,D8,D,B,D, ,B, ,B,D,B,D,D,A,C,B,B,D,C,A,C,D,C,D,A,C,D
+116,Luke Skywalker,80,D9,D5,D7,C,B,A,C,B,C,A,D,B,A,D,C,A,C,D,A,A,B,B,D,D,D,A,C,D
+117,Lightning Mcqueen,89,D2,D4,D7,A,D,D,A, ,C,A,A,B,C,A,B,A,B,B,C,C,B,C,D,D,A,C,C,D
+118,Lost Nemo,78,D1,D5,D8,A,A,D,A,C,D,A,B,B, ,C,B,D,C,B,D,C,A, ,D,C,D,A,C,D
+119,Inek Saban,72,D4,D6,D8,A,D,D,B,C,A,A,B,B,D,D,D,A,B,B,D, ,C,C,D,D,D,B,A,D
+120,Gregor Samsa,73,D6,D9,D10,B,B,A,C,C, ,A,B,B,D,D,A,A,B,B,D, ,A,C,C,D,D,C,C,D
+121,Mickey Mouse,74,D5,D6,D7,A,C,D,A,B,C,C,D,B,B, ,D,A,C,B,D,C,B,C,B,A,D,A,C,D
+122,Komutan Logar,67,D8,D9,D3,D,D,D, ,C,C,A,A, ,C,C,B,D,C,B,D,C,B,D,D,C,D,B,C,D
+123,Charlie Chaplin,56,D4,D2,D6,A,D, ,B,C,C,C,D,B,C,C,B,A,B, ,A,C,B,C,A,A,C,B,A,D
+124,Polat Alemdar,71,D5,D9,D2,A,C,D,D,C,C,D,D,A,C,D,B, ,C,B,D,C,B,C,D,A,A,B,A,D
+125,Esra Tarak,90,D1,D4,D2,A,B,D,C, ,C,A,D,B,C,D,B,A, ,B,A,C,D,C,D,A,D,B,C,D
+126,Cem Ak,84,D1,D5, ,A,C,D,C,C,C,A,C,B,C,D,B,A,C,B,A,C,D,C,C,A,D,B,C,D
+127,Sibel Tan,55,D3, , ,A,B,D,A,C,C,A,D, ,C,D,B,A,C,B,A, ,D,C,D,A,D,B,C,D
+128,Memmet Yaman,76,D4,D3,D1,A,B, ,C,D, ,A,D,A,B,A, ,A,C, ,A, ,D,C,D,A, ,A,B,A

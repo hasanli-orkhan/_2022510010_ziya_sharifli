@@ -1,0 +1,9 @@
+D1,Computer Engineering,8
+D2,Electronics Engineering,4
+D3,Mathematics,5
+D4,Physics,2
+D5,Medicine,5
+D6,Mechatronics Engineering,6
+D7,Geology Engineering,8
+D8,Metereology,7
+D9,IdkTest,7
